@@ -1,0 +1,5 @@
+Timestamp,State,Duration,Total Idle Time,Total Movement Time
+2024-07-02 16:57:25.601585,Movement,0,0,0
+2024-07-02 16:57:27.296416,Idle,1.69,1.69,0
+2024-07-02 16:57:28.413314,Movement,1.12,1.69,1.12
+2024-07-02 16:57:30.800748,Idle,2.39,4.08,1.12
